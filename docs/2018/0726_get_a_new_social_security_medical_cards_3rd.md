@@ -1,9 +1,11 @@
-# 医疗社保卡读不出了？坏了？破损了？办理新社保卡指南 - 上海地区
+# 医疗社保卡读不出了？坏了？破损了？办理新社保卡指南（上海地区） - 第三代社保卡
 
-Date: 2018 July 26<br />
-Author: Okiju Dan
-get_a_new_social_security_medical_cards.md
+> Date: 2018 July 26<br />
+> Author: 坐着爱玩衣角<br />
+> File: get_a_new_social_security_medical_cards_3rd.md
 ---
+
+目录
 
 [[toc]]
 
@@ -11,7 +13,7 @@ get_a_new_social_security_medical_cards.md
 
 > 体检过后，去医院和牙防所做具体的检查，发现了一个比较麻烦的问题，医保卡（社保卡）因为使用太久，芯片接触准确率有点下降。我们每个人的第一张社保卡应该是在高考后、大学入学前后办理的，大约18岁，等到到你挥手离开大学踏入社会，伴随着工作年限的增长，亚健康问题也随之而来，在看病时这张社保卡的表现只能说是差强人意，各种自助机器上的读取经常失败，在后面排队的人群盯着你时，你就会觉得窘迫和尴尬，但现场又束手无措
 
-### 究竟是我的社保卡坏了，还是医院机器不行
+### 社保卡坏了 or 医院机器不行
 
 曾经也偶尔发生过卡读不出，但也没当回事儿，最近遇到的一些状况，让我有点抓狂
 
@@ -33,7 +35,7 @@ get_a_new_social_security_medical_cards.md
 
 但作为一个普通市民，我没办法测试我的卡，没有设备可以测试芯片的磨损率，但我相信医院的机器应该不会有问题，现实摆在那儿，那么多患者和医生都在用着呢对不对。。。
 
-### 办卡的念头
+### 办新卡的念头
 
 内心问了个问题，卡没有过期，那去办卡会不会被鄙视。咨询了老妈，老妈说家那边的服务中心挺近的（我不住在爸妈家那边）
 
@@ -52,7 +54,7 @@ get_a_new_social_security_medical_cards.md
 
 看了看我要去的那个受理点的在线预约，完全没必要预约啊，因为根本没人在约，于是我地铁转去了那边
 
-### 办理卡ing
+### 办卡咯
 
 一到那儿，大厅很宽敞，工作人员不多，大概是因为中午的关系，但此项服务中午午休时间是可以办理的哦，而且**全市通办**，意思就是本市任何一个受理点都可以办理，不用到所在街道那么麻烦
 
@@ -77,15 +79,15 @@ get_a_new_social_security_medical_cards.md
 
 期间你会签一张根据你叙述的新地址和联系方式打印出来的申请表，你可以选择拍照留下点参考
 
-![社会保障卡申领登记表](~@images/get_a_new_social_security_medical_cards/1_application_form.png)
+![社会保障卡申领登记表](~@images/2018/0726_get_a_new_social_security_medical_cards_3rd/1_application_form.png)
 
-![快递投递短信](~@images/get_a_new_social_security_medical_cards/2_express_sms.png)
+![快递投递短信](~@images/2018/0726_get_a_new_social_security_medical_cards_3rd/2_express_sms.png)
 
 新卡在样式上也改进了不少，关联卡号印在上面，卡上信息也更多了，当然最重要的是芯片终于焕然一新了，虽然还没用过，但新的总不会有问题了吧
 
 没想到在朋友圈刚发完：要开始当一个临时的市民了 的朋友圈后，不到一周就拿到了新卡，临时卡也就没啥用了，留作纪念吧
 
-![临时卡](~@images/get_a_new_social_security_medical_cards/3_temp_card.png)
+![临时卡](~@images/2018/0726_get_a_new_social_security_medical_cards_3rd/3_temp_card.png)
 
 
 ### 后记
@@ -95,16 +97,24 @@ get_a_new_social_security_medical_cards.md
 - 实际等待时间仅仅只有1周
 - 社保卡的快递发出后，会收到短信息通知，告知你预计送达时间和快递员联系方式
 - 短信会提示你，届时要准备好身份证用来验证是否本人
+- 最后收到信件时，投递员也没有核对我的身份证，奇怪，本来以为会是满正规的呢
 
-![新卡投递信封](~@images/get_a_new_social_security_medical_cards/4_envelope.png)
-![新卡真容](~@images/get_a_new_social_security_medical_cards/5_new_card.png)
+![新卡投递信封](~@images/2018/0726_get_a_new_social_security_medical_cards_3rd/4_envelope.png)
+
+**新卡阵容**
+![新卡真容正面](~@images/2018/0726_get_a_new_social_security_medical_cards_3rd/5_new_card_front.png)
+![新卡真容背面](~@images/2018/0726_get_a_new_social_security_medical_cards_3rd/6_new_card_reverse.png)
 
 
-#### 作者备注：
+### 作者备注
 
 如果你也曾经在就医过程中遇到这类烦恼的事情，什么卡读不出，排队耗时却遭遇尴尬，拿药却发现卡不行，发票又没打印等等，不要犹豫了，赶紧查查你家或者公司附近哪儿有受理点，去弄张新的吧，一劳永逸
 
 记住，这卡并没有你想象的那么耐用，连银行卡都要定期到期后更换呢对不对。
+
+---
+
+补充于 8月29日，原来这卡是新版的第三代社保卡，继承了储蓄卡的功能等，但也会有诸多的不便，会有新文章来讲
 
 ---
 

@@ -1,5 +1,16 @@
 # 记一次 PADI OW 深潜潜水证考试之旅 - 印尼美娜多
 
+> Date: 2019 Jan 21<br />
+> Author: 坐着爱玩衣角<br />
+> File: 0121_manado_travel_padi_ow_certification.md
+---
+
+目录
+
+[[toc]]
+
+---
+
 > 美娜多是印度尼西亚北苏拉威西省首府，位于苏拉威西岛北端濒临苏拉威西海，是苏拉威西岛的第二大城市，为群山所环绕，素以海岸美景著称。这里也非常适合潜水，可以最大限度的感受到大海的魅力，还可以尝尝这里最有特色的印尼炒饭。
 
 ## 出发日（2018 Apr 26)
@@ -14,13 +25,13 @@
 
 出发日当天下班，地铁到广兰路跟小学妹汇合后前往浦东国际机场，晚饭是永和大王的一份炒饭加猪排，在C岛值机区等待通知，一直到22点前一班飞伊朗德黑兰的值机结束后才轮到我们印尼狮航JT2570开始值机，机智地排在了队伍头部，给逛免税店增加了不少时间
 
-![地铁出发](../assets/images/manado_travel_padi_ow_certification/day0_start_off_metro_line_2.jpeg)
+![地铁出发](~@images/2019/0121_manado_travel_padi_ow_certification/day0_start_off_metro_line_2.jpeg)
 
 过安检，出关，逛免税店，一切搞定后，D229登机口附近休息区充电等候登机
 
-![上海出发机票](../assets/images/manado_travel_padi_ow_certification/day0_start_off_plane_ticket.png)
-![狮航客机](../assets/images/manado_travel_padi_ow_certification/day0_start_off_lion_airline.jpeg)
-![机上随拍](../assets/images/manado_travel_padi_ow_certification/day0_start_off_random_photo.jpeg)
+![上海出发机票](~@images/2019/0121_manado_travel_padi_ow_certification/day0_start_off_plane_ticket.png)
+![狮航客机](~@images/2019/0121_manado_travel_padi_ow_certification/day0_start_off_lion_airline.jpeg)
+![机上随拍](~@images/2019/0121_manado_travel_padi_ow_certification/day0_start_off_random_photo.jpeg)
 
 登机后，没想到狮航的座位真的超级窄，我腿都不能完全舒展开，矮个子的小学妹也不行（后来回上海的狮航航班上我们才顿悟，是因为我们坐在了紧急出口前一排的缘故，空间被后排占据了）
 
@@ -30,13 +41,13 @@
 
 飞机降落后，要吐槽下美娜多机场，报了团的都是由出发领队办理团队入关手续（美娜多对中国公民是免签手续的），我们团队一起通关，护照在等行李时领队归还，不巧一个团友在拿了行李后自行出机场去了
 
-![等大巴](../assets/images/manado_travel_padi_ow_certification/day1_mdc_waiting_for_bus.jpeg)
-![等大巴，取钱](../assets/images/manado_travel_padi_ow_certification/day1_mdc_outside_lobby.jpeg)
+![等大巴](~@images/2019/0121_manado_travel_padi_ow_certification/day1_mdc_waiting_for_bus.jpeg)
+![等大巴，取钱](~@images/2019/0121_manado_travel_padi_ow_certification/day1_mdc_outside_lobby.jpeg)
 
 因为对这里的消费水平不了解，取了2笔，120w和50.2w，手续费消耗24元，入境后，当地领队Rosman接机，印尼的华裔第四代，中文很流利，只是他貌似对读中文会有点小问题，所以强调了有问题时微信里最好发语音消息，我目测他大概25岁左右，确认过眼神后，我们就找到了组织，接着就是他们等人，我们去找ATM取卢比，人到齐后就坐着辆可爱少女风十足的Hello Kitty大巴前往第一天培训地点
 
-![Kitty猫大巴](../assets/images/manado_travel_padi_ow_certification/day1_hello_kitty_bus1.jpeg)
-![Kitty猫大巴](../assets/images/manado_travel_padi_ow_certification/day1_hello_kitty_bus2.jpeg)
+![Kitty猫大巴](~@images/2019/0121_manado_travel_padi_ow_certification/day1_hello_kitty_bus1.jpeg)
+![Kitty猫大巴](~@images/2019/0121_manado_travel_padi_ow_certification/day1_hello_kitty_bus2.jpeg)
 
 几个点要提下
 
@@ -45,8 +56,8 @@
 - 取款的ATM机器里只有靠近门口的一台支持银联，要记得，如果没有换好当地卢比的童鞋可以在这取现
 - 凌晨时，机场还有蛮多刚需的店开着
 
-![机场停车场](../assets/images/manado_travel_padi_ow_certification/day1_mdc_parking.jpeg)
-![当地地接Rosman本人](../assets/images/manado_travel_padi_ow_certification/day1_rosman_local_guide_man.jpeg)
+![机场停车场](~@images/2019/0121_manado_travel_padi_ow_certification/day1_mdc_parking.jpeg)
+![当地地接Rosman本人](~@images/2019/0121_manado_travel_padi_ow_certification/day1_rosman_local_guide_man.jpeg)
 
 我们抵达当天是周五早上，美娜多的交通令人有点失望，道路很小，只能允许双向各一个车道通过，更夸张的是它们没有非机动车道，人车混行的场面就是拥堵
 
@@ -64,8 +75,8 @@
 
 这里我们到了后，在泳池边等了蛮久的，大概休息了有1个多小时后被大巴带去了附近的一个团餐地，是印尼当地食物自助餐，吃不惯，辣的很辣，可惜没有拍照，我靠几根烤串填了肚子，去海边看了看海，心里还是焦虑的心情
 
-![封闭水域练习泳池](../assets/images/manado_travel_padi_ow_certification/day1_training_swimming_pool.jpeg)
-![地铁出发](../assets/images/manado_travel_padi_ow_certification/day1_padi_ow_theory_class.png)
+![封闭水域练习泳池](~@images/2019/0121_manado_travel_padi_ow_certification/day1_training_swimming_pool.jpeg)
+![地铁出发](~@images/2019/0121_manado_travel_padi_ow_certification/day1_padi_ow_theory_class.png)
 
 饭后回到培训基地等待教练，又等了不知道多久，先是来了Navi（另外一个考级类型）的教练，我们总共14个人，5个是持证来fun dive的，2个是报名了navi项目的，我们和剩下的5个是考PADI的OW初级
 
@@ -99,7 +110,7 @@
   - 额外1，掌握脚蹼水下游动
   - 额外2，学会耳压平衡的技巧
 
-![BCD配图](../assets/images/manado_travel_padi_ow_certification/day1_bcd.jpg)
+![BCD配图](~@images/2019/0121_manado_travel_padi_ow_certification/day1_bcd.jpg)
 
 学习深潜一定要熟知每一个设备的名称、使用方法和作用
 
@@ -202,8 +213,8 @@ BCD
 
 团里9个人还并不熟悉，回到酒店后，我们附近找了家快餐解决了晚饭，TEXAS Chicken 搞定，真心觉得如果大家不希望自己的肠胃在考证这几天跟你闹，那就好好吃正规门面的店，不然非常容易水土不服拉肚子，脱水虚脱就惨了
 
-![回酒店拥堵的交通](../assets/images/manado_travel_padi_ow_certification/day1_after_theory_class_back_to_hotel.jpeg)
-![酒店房间外的景色](../assets/images/manado_travel_padi_ow_certification/day1_view_from_room.jpeg)
+![回酒店拥堵的交通](~@images/2019/0121_manado_travel_padi_ow_certification/day1_after_theory_class_back_to_hotel.jpeg)
+![酒店房间外的景色](~@images/2019/0121_manado_travel_padi_ow_certification/day1_view_from_room.jpeg)
 
 晚上就在房间里学习1，2单元的理论内容，加上多喝热水，因为我感冒，于是就早睡了
 
@@ -248,7 +259,7 @@ BCD
 
 今天是翻译lucky的生日，还叫了点当地小吃外卖给请船上的人吃，第一次见到这里叫外卖是外送员游泳送过来的，可惜没拍下来，是一些油炸的食物，当时我们都已经饿晕了，狂吃
 
-![游过来的外卖](../assets/images/manado_travel_padi_ow_certification/day3_food_take_away.jpg)
+![游过来的外卖](~@images/2019/0121_manado_travel_padi_ow_certification/day3_food_take_away.jpg)
 
 第一潜结束后，我们和带我们的潜导和了照，几个潜导里我们那个感觉最帅呀，还有6块腹肌
 
@@ -257,31 +268,31 @@ BCD
 水下的小鱼估计都习惯人类了，完全不怕人
 最后模拟紧急上升，潜导还帮我们各自都拍了个小视频，感觉超酷的，小学妹欣赏了好多遍
 
-![水下生物](../assets/images/manado_travel_padi_ow_certification/day3_something_under_sea.jpg)
-![合影](../assets/images/manado_travel_padi_ow_certification/day3_gopro_with_cici.jpg)
+![水下生物](~@images/2019/0121_manado_travel_padi_ow_certification/day3_something_under_sea.jpg)
+![合影](~@images/2019/0121_manado_travel_padi_ow_certification/day3_gopro_with_cici.jpg)
 
 第二潜一浮出水面后，逐渐下起了大雨，往船边上游都变得有点吃力，上传后船晃特别厉害，幸好吃了晕船药，上来了3个人后，海上开始狂风暴雨，船摇晃的厉害，因为我们并没有抛船锚到海底，所以被海浪已经拍到了离潜水点蛮远距离的位置，船长启动了发动机，开始在海面上寻找其他队员和教练，在一个个的回到艇上后，我们开始启程回去靠岸，结果风浪实在是太大，快艇被吹的摇晃角度之大让我觉得要翻船了，放在屋顶上的东西都滑到了水里，挂在边上的梯子也掉了下去，反正现场就是非常凌乱，我们也无能为力，只能祈祷快点回去，安全上岸
 
 回Dive Center后就看书复习了会，然后大伙一起笔试，没什么难度，大伙都通过了，晚上教练给我们颁发临时证书
 
-![PADI OW临时证书](../assets/images/manado_travel_padi_ow_certification/day3_padi_ow_certification.png)
-![颁发临时证书](../assets/images/manado_travel_padi_ow_certification/day3_thank_you.jpg)
+![PADI OW临时证书](~@images/2019/0121_manado_travel_padi_ow_certification/day3_padi_ow_certification.png)
+![颁发临时证书](~@images/2019/0121_manado_travel_padi_ow_certification/day3_thank_you.jpg)
 
 潜导们在泳池边弹吉他唱歌，我们也就毫无负担的享受难得的轻松夜晚，他们真的好多才多艺
 
-![弹唱](../assets/images/manado_travel_padi_ow_certification/day3_sing_a_song.jpg)
+![弹唱](~@images/2019/0121_manado_travel_padi_ow_certification/day3_sing_a_song.jpg)
 
-![晚饭中餐](../assets/images/manado_travel_padi_ow_certification/day3_dinner_chinese.jpg)
+![晚饭中餐](~@images/2019/0121_manado_travel_padi_ow_certification/day3_dinner_chinese.jpg)
 
 晚上我们俩去了电影院，比国内抢先看了《复仇者联盟3》，买票经历了一些问题，他们的售票员听不懂英文，反应好像也慢半拍，最后在旁边一个会讲英语的路人的翻译帮助下，搞定了两张票，英语原声 + 印尼语字幕，还好剧情不复杂，总体能理解，虽然有些细节没听懂，回去再看一遍中文版
 
-![电影票](../assets/images/manado_travel_padi_ow_certification/day3_film_avengers.jpg)
+![电影票](~@images/2019/0121_manado_travel_padi_ow_certification/day3_film_avengers.jpg)
 
 他们电影院是不能带饮料进去的，在大厅时，他们的工作人员会要求你寄存掉你的饮料，不知道食物会不会也不能带进去，于是我们寄掉了，渴死了后来
 
 漫威的电影都要习惯性的等彩蛋，1个不够还有2个有时候，我们就在Mantos这里等了一个尴尬的彩蛋，电影放映结束后，在滚字幕了，但当地人都离场跑光了，就我们两个外国人在那边等彩蛋，工作人员还跑过来问我们，当地人没有看彩蛋的习惯吗？？看照片保洁工作人员都在最后一排等着我们离开了，但并没有催我们
 
-![和保洁一起等彩蛋](../assets/images/manado_travel_padi_ow_certification/day3_easter_egg.jpg)
+![和保洁一起等彩蛋](~@images/2019/0121_manado_travel_padi_ow_certification/day3_easter_egg.jpg)
 
 看电影的商场当晚似乎还在搞一个选美比赛的样子，好热闹
 
@@ -291,10 +302,10 @@ BCD
 
 大多数情况下，第4天时，很多考证的人会报名这一天去 benaken 潜水，看更美丽的海底景色，但我已经不想继续了，于是报了个一日团，去爬爬山看看死火山，看看当地的那个很吓人恶心的恐怖市场，卖的东西国内就是看不到的，也不放图了，品品茶，看看湖景和花卉，结束一天行程
 
-![大大大](../assets/images/manado_travel_padi_ow_certification/day4_yesus.jpg)
-![死火山坑](../assets/images/manado_travel_padi_ow_certification/day4_extinct_volcano.jpg)
-![死火山坑](../assets/images/manado_travel_padi_ow_certification/day4_extinct_volcano_distant_view.jpg)
-![美美的小学妹](../assets/images/manado_travel_padi_ow_certification/day4_garden.jpg)
+![大大大](~@images/2019/0121_manado_travel_padi_ow_certification/day4_yesus.jpg)
+![死火山坑](~@images/2019/0121_manado_travel_padi_ow_certification/day4_extinct_volcano.jpg)
+![死火山坑](~@images/2019/0121_manado_travel_padi_ow_certification/day4_extinct_volcano_distant_view.jpg)
+![美美的小学妹](~@images/2019/0121_manado_travel_padi_ow_certification/day4_garden.jpg)
 
 小学妹内心是不开心的，但为了迁就我
 
@@ -304,4 +315,4 @@ BCD
 
 集合后，去Mantos商场，规模还不错，但是东西并不怎么吸引人，大多数时间我们都在星巴克里待着消磨时光，午饭就找了家中餐吃了，真的，在国外吃中餐真的是挺贵的，不过有家乡的味道真好
 
-![美美的小学妹](../assets/images/manado_travel_padi_ow_certification/day5_leaving.png)
+![美美的小学妹](~@images/2019/0121_manado_travel_padi_ow_certification/day5_leaving.png)
