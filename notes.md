@@ -1,0 +1,1 @@
+- Use Preview.app to resize the images
