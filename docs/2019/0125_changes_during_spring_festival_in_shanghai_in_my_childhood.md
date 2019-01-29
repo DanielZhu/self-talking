@@ -37,7 +37,7 @@
 
 地图上搜了下，街道有哎，顺着现在的95路公交线路，是经过的！！！，但过去了那么久，怎么都找不到了当时的所在地，问完我哥，地图上找到了方位，这种感觉其实很奇妙的，一个你20年前住过的地方，它居然还在那儿，楼也还在那儿，只要你愿意，还是可以坐着地铁去瞅瞅，拍拍照叙叙旧
 
-![张庙大致方位](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/map_of_zhangmiao.png)
+![张庙大致方位](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/map_of_zhangmiao.png)
 ▲张庙大致方位
 
 路线是：
@@ -51,27 +51,27 @@
 
 那时真佩服大人们，没有地图app的路线规划，他们凭借着一副老上海人的经验，再结合纸质地图帮我们找出转车方案，那个时候的公交车还是超长型，中间有黑黑的东西连接着的
 
-![90年代的上海巨龙公交车](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/old_bus_station.jpeg)
+![90年代的上海巨龙公交车](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/old_bus_station.jpeg)
 ▲90年代的上海巨龙公交车
 
-![90年代的上海巨龙公交车内部，看看中间那个连接处](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/bus_inside.jpeg)
+![90年代的上海巨龙公交车内部，看看中间那个连接处](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/bus_inside.jpeg)
 ▲90年代的上海巨龙公交车内部，看看中间那个连接处
 
-![90年代的上海巨龙公交车挤不上啊](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/crowd_bus.jpeg)
+![90年代的上海巨龙公交车挤不上啊](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/crowd_bus.jpeg)
 ▲90年代的上海巨龙公交车挤不上啊
 
 对了，那时候，我们去过春节，口语上都是说：“今天上海去了”
 
 再来看看，2019年的话，地图让我怎么坐公交去恩奶家，是不是也不那么轻松，3条地铁、2辆公交外加走路1.1km，耗时2小时，想想也还是挺累的
 
-![2019年我家出发去张庙](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/way_to_zhangmiao.jpeg)
+![2019年我家出发去张庙](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/way_to_zhangmiao.jpeg)
 ▲2019年我家出发去张庙
 
 ## 第三个：大华新村
 
 他们刚搬家后第一次过年时，那时候我大概8岁？不确定
 
-![大华新村](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/map_of_dahua.png)
+![大华新村](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/map_of_dahua.png)
 ▲大华新村
 
 路线是：
@@ -100,12 +100,12 @@
 
 顺着记忆，地图上搜索「大华新村」，结合了其他的一些线索，哈哈，街景里确认了那个每年都要走过的小区大门之一，还有112路下车的车站，瞬间，那小区的小花园，大门进去后左拐右拐再左拐的路线也浮上来了。
 
-![熟悉的112路怡华苑路下车车站](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/bus_station_of_dahua.png)
+![熟悉的112路怡华苑路下车车站](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/bus_station_of_dahua.png)
 ▲熟悉的112路怡华苑路下车车站
 
 再来看看，2019年的话，地图让我怎么坐公交去恩奶家，3条地铁、1辆公交外加走路1km，耗时1小时半，好像还可以
 
-![2019年我家出发去大华](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/way_to_dahua.jpeg)
+![2019年我家出发去大华](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/way_to_dahua.jpeg)
 ▲2019年我家出发去大华
 
 ## 第四个：泗泾
@@ -139,7 +139,7 @@
 - 另外，你熟悉的街道马路、商店超市，你土生土长的城市恍惚间换了一种打开方式，也挺新鲜- 的
 - 最后，没结婚还没工作的小孩，就有压岁钱红包收啊，也挺怀念的
 
-![和恩奶合影，@大华新村](~@images/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/with_grandma.jpeg)
+![和恩奶合影，@大华新村](~@images/2019/0125_changes_during_spring_festival_in_shanghai_in_my_childhood/with_grandma.jpeg)
 ▲和恩奶合影，@大华新村
 
 翻出手机里一张存了很多年的一张合影照片，纸质的照片，后来我翻拍的，至今还被放在我房间里的相框里，摄于大华新村时期的客厅沙发上，水仙花特别抢镜哈哈，那时候还记得我在房间练毛笔字时，舅舅会用台灯照着这个水仙花
