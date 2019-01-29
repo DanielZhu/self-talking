@@ -33,21 +33,28 @@
 
 ## 图片版本流程
 
-(img)
+![上海医疗保险业务自助机](~@images/0128_get_new_medical_notebook/1_medical_service_machine.jpg)
 ▲图1，上海医疗保险业务自助机
-(img)
+
+![首页主界面菜单](~@images/0128_get_new_medical_notebook/2_main_menu.png)
 ▲图2，首页主界面菜单
-(img)
+
+![是否本人办理](~@images/0128_get_new_medical_notebook/3_is_yourself_requesting.png)
 ▲图3，是否本人办理
-(img)
+
+![插入对应的卡](~@images/0128_get_new_medical_notebook/4_which_card_using.png)
 ▲图4，插入对应的卡
-(img)
+
+![选择办理类型](~@images/0128_get_new_medical_notebook/5_which_services_you_want.png)
 ▲图5，选择办理类型
-(img)
+
+![打印好个人信息的全新空白门急诊记录册](~@images/0128_get_new_medical_notebook/6_printed_medical_notebook.png)
 ▲图6，打印好个人信息的全新空白门急诊记录册
-(img)
+
+![机器侧影](~@images/0128_get_new_medical_notebook/7_machine.jpg)
 ▲图7，机器侧影
-(img)
+
+![我所去的社区服务中心的工作时间](~@images/0128_get_new_medical_notebook/8_service_station_time.jpg)
 ▲图8，我所去的社区服务中心的工作时间
 
 ## 说明
@@ -72,25 +79,4 @@
 ----
 
 全  ·  文  ·  完
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
